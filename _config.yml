@@ -1,7 +1,7 @@
 permalink: pretty
 markdown: rdiscount
 highlighter: pygments
-url: http://codeandomexico.github.io/playbook/
+baseurl: playbook/
 
 collections:
   - plays
